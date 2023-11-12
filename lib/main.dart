@@ -16,7 +16,7 @@ void main() {
 
 class ApiService {
   static ApiService? _instance;
-  final String apiKey = 'c513ad3a';
+  final String apiKey = f413ad1d';
 
   factory ApiService() {
     if (_instance == null) {
